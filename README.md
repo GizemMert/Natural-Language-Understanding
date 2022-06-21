@@ -4,4 +4,4 @@ Student : Gizem Mert,
 Professor: Giuseppe Riccardi
 
 
-Different models can be used only changing the commands on the experiment part of.
+Different models can be used by only changing the commands on the experiment part.
